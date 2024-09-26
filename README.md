@@ -74,6 +74,15 @@ To only run specific analyzers, use the `tools` command. This command is a comma
 
 Please see the [wiki tab](https://github.com/nholuongut/Security-DevOps-Action/wiki) for more information and the [Frequently Asked Questions (FAQ)](https://github.com/nholuongut/Security-DevOps-Action/wiki/FAQ) page.
 
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
 # Report Issues
 
 Please [file a GitHub issue](https://github.com/nholuongut/Security-DevOps-Action/issues/new) in this repo. To help us investigate the issue, please include a description of the problem, a link to your workflow run (if public), and/or logs from the MSDO action's output.
