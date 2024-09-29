@@ -2,6 +2,9 @@
 
 Microsoft Security DevOps (MSDO) is a command line application which integrates static analysis tools into the development cycle. MSDO installs, configures and runs the latest versions of static analysis tools (including, but not limited to, SDL/security and compliance tools). MSDO is data-driven with portable configurations that enable deterministic execution across multiple environments. For tools that output results in or MSDO can convert their results to SARIF, MSDO imports into a normalized file database for seamlessly reporting and responding to results across tools, such as forcing build breaks.
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 Run locally. Run remotely.
 
 This action runs the [Microsoft Security DevOps CLI](https://aka.ms/msdo-nuget) for security analysis:
@@ -74,23 +77,18 @@ To only run specific analyzers, use the `tools` command. This command is a comma
 
 Please see the [wiki tab](https://github.com/nholuongut/Security-DevOps-Action/wiki) for more information and the [Frequently Asked Questions (FAQ)](https://github.com/nholuongut/Security-DevOps-Action/wiki/FAQ) page.
 
-### [Contact an Author]
+# Contributing
+
+Contributions are welcome! See the [Contributor's Guide](docs/contributors.md).
+
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
 * [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com) 
+* [Email Address](luongutnho@hotmail.com)
 
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
-
-# Report Issues
-
-Please [file a GitHub issue](https://github.com/nholuongut/Security-DevOps-Action/issues/new) in this repo. To help us investigate the issue, please include a description of the problem, a link to your workflow run (if public), and/or logs from the MSDO action's output.
-
-# License
-
-The scripts and documentation in this project are released under the [MIT License](LICENSE)
-
-# Contributing
-
-Contributions are welcome! See the [Contributor's Guide](docs/contributors.md).
